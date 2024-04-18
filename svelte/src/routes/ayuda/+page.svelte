@@ -3,7 +3,7 @@
 </script>
   
   <style>
-    /* Agrega estilos según sea necesario */
+    /* Agregar estilos según sea necesario */
   </style>
   
   <Navbar />
