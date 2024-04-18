@@ -66,7 +66,7 @@
   .info-container {
     flex-grow: 1;
     margin-left: 10px;
-    color: #333; /* Cambia el color del texto aquí */
+    color: #333; 
   }
 
   p {

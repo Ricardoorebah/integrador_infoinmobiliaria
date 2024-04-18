@@ -1,5 +1,5 @@
 <script>
-    // Puedes agregar lógica adicional según sea necesario
+    // Se puede agregar lógica adicional según sea necesario
   </script>
   
   <style>
@@ -27,12 +27,12 @@
     text-decoration: none;
   }
   
-    /* Agrega más estilos según tus preferencias */
+  
   </style>
   
   <nav>
     <div>
-      <!-- Puedes agregar un logo u otros elementos en esta sección si es necesario -->
+      
       <span>Logo</span>
     </div>
     
@@ -40,6 +40,6 @@
       <li><a href="/">Portada</a></li>
       <li><a href="/busqueda">Búsqueda</a></li>
       <li><a href="/ayuda">Ayuda</a></li>
-      <!-- Puedes agregar más elementos del menú según sea necesario -->
+     
     </ul>
   </nav>
