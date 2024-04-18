@@ -242,9 +242,9 @@
     justify-content: center;
     margin:20px;
     margin-left: 100px;
-    background-image: url('old-blueprint-background-texture-technical-600nw-284571158.webp'); /* Reemplaza 'ruta_de_tu_imagen.jpg' con la ruta correcta de tu imagen */
+    background-image: url('old-blueprint-background-texture-technical-600nw-284571158.webp'); 
     background-repeat: repeat;
-    color: #000000; /* Ajusta el color del texto para que sea legible sobre la imagen de fondo */
+    color: #000000; 
     
   }
 
@@ -275,8 +275,8 @@
   }
 
   .filter-bar button {
-    max-width: 100px; /* Ajusta el ancho máximo del botón según tus preferencias */
-    width: 20; /* Puedes usar width en lugar de max-width si prefieres un ancho fijo */
+    max-width: 100px; 
+    width: 20; 
   }
 
   .pagination {
@@ -287,10 +287,10 @@
   }
 
   .pagination button {
-    padding: 5px 10px; /* Ajusta el padding según tus preferencias */
-    font-size: 14px;  /* Puedes ajustar el tamaño de la fuente si es necesario */
-    max-width: 80px;  /* Ajusta el ancho máximo según tus preferencias */
-    width: auto; /* Puedes usar width en lugar de max-width si prefieres un ancho fijo */
+    padding: 5px 10px; 
+    font-size: 14px;  
+    max-width: 80px;  
+    width: auto; 
   }
   .sort-order {
     margin-top: 10px;
